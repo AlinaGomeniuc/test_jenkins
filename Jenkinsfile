@@ -1,7 +1,7 @@
 pipeline {
     environment {
         registry = "alinagomeniuc/docker-test"
-        registryCredential = 'test_dockerhub_jenkins'
+        registryCredential = 'test_dockerhub_jenkins2'
         dockerImage = ''
   }
 
